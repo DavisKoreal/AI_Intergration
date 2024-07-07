@@ -1,5 +1,4 @@
-## This is a repository to develop an image recognition pipeline
-## for Auto Checkout
+# This is a repository to develop an image recognition pipeline for AutoCheckout project
 
 ## @get_receipt.py 
 
